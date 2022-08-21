@@ -30,7 +30,7 @@ const Portfolio = () => {
           <a href="https://tanishq-clone.netlify.app/">
             <img className="proimg" src={Sidebar} alt="" />
           </a>
-          <p>Tanishq | Online Gold & Diamond Jewellery Shopping Store</p>
+          <p>Tanishq! Online Gold & Diamond Jewellery Shopping Store</p>
           <p>Technologies used:</p>
           <p>HTML | CSS | Javascript | MongoDb | Express</p>
 
@@ -48,7 +48,7 @@ const Portfolio = () => {
             on social and beyond
           </p>
           <p>Technologies used:</p>
-          <p>REACT | REDUX | CHAKRA UI </p>
+          <p>React | Redux | Chakra UI </p>
           <a href="https://github.com/sarkarsubho/gaping-spring-1880.git">
             <button className="button n-button">Github</button>
           </a>

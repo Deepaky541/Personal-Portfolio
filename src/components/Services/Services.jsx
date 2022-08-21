@@ -6,7 +6,7 @@ import Glasses from "../../img/css.svg";
 import Humble from "../../img/js.svg";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './resume.pdf';
+import Resume from './Deepak resume.pdf';
 import Github from '../../img/github.svg'
 import Mongodb from "../../img/mongodb.svg";
 import Expres from "../../img/express.svg";
